@@ -9,7 +9,7 @@
 - [Schema](#Schema)
 - [Interacting with Database](#Interacting-with-Database)
 - [Endpoint Documentation](#Endpoint-Documentation)
-- [Thanks](license.txt)
+- [Thanks](./license.txt)
 
 ## About
 
