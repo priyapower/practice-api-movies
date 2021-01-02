@@ -1,2 +1,5 @@
-# JWT
+# Development environment
 .env
+
+# Test environment
+.env.test
