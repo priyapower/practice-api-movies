@@ -1,0 +1,50 @@
+/* Please replace the "added_by" field from user name to user id */
+
+{
+  "name": "The Shawshank Redemption",
+  "casts": ["Tim Robbins", "Morgan Freeman", "Bob Gunton", "William Sadler"],
+  "genres": ["Drama"],
+  "added_by": Timon
+},
+{
+  "name": "The Godfather ",
+  "casts": ["Marlon Brando", "Al Pacino", "James Caan", "Diane Keaton"],
+  "genres": ["Crime", "Drama"],
+  "added_by": Timon
+},
+{
+  "name": "The Dark Knight",
+  "casts": ["Christian Bale", "Heath Ledger", "Aaron Eckhart", "Michael Caine"],
+  "genres": ["Action", "Crime", "Drama"],
+  "added_by": Pumba
+},
+{
+  "name": "Kubo and the Two Strings",
+  "casts": ["Charlize Theron", "Art Parkinson", "Ralph Fiennes", "Rooney Mara", "George Takei", "Matthew McConaughey"],
+  "genres": ["Stop-Motion", "Animation", "Fantasy"],
+  "added_by": Pumba
+},
+{
+  "name": "Invasion",
+  "casts": ["Nicole Kidman", "Daniel Craig", "Jeremy Northam", "Jeffrey Wright"],
+  "genres": ["Science Fiction", "Horror"],
+  "added_by": Simba
+},
+{
+  "name": "Home Alone 2: Lost in New York",
+  "casts": ["Macaulay Culkin", "Joe Pesci", "Daniel Stern", "John Heard", "Tim Curry", "Brenda Fricker", "Catherine O'Hara"],
+  "genres": ["Comedy"],
+  "added_by": Simba
+},
+{
+  "name": "Haunting of the Mary Celeste",
+  "casts": ["Emily Swallow", "Dominic DeVore", "Alice Hunter", "Pierre Adele", "Richard Roundtree"],
+  "genres": ["Horror", "Thriller", "Supernatural"],
+  "added_by": Nala
+},
+{
+  "name": "Frankenstein",
+  "casts": ["Colin Clive", "Mae Clarke", "John Boles", "Boris Karloff", "Dwight Frye", "Edward van Sloan", "Frederick Kerr"],
+  "genres": ["Science Fiction", "Horror"],
+  "added_by": Nala
+}
