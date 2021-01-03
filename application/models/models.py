@@ -1,4 +1,4 @@
-from .db import db
+from database.db import db
 from flask_bcrypt import generate_password_hash, check_password_hash
 
 class Movie(db.Document):
